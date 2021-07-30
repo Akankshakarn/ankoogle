@@ -1,0 +1,82 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+.title{
+	padding-top: 12.7vh;
+	margin top: 10vh;
+	margin-left: 83vh;
+	font-size: 14vh;
+	/*font-family: 'Noto Sans', sans-serif;*/
+}
+.top{
+	text-align: right;
+	padding-right: 5vh;
+	padding-top: 4vh;
+}
+.top button{
+	border:none;
+	width: 8vh;
+	height: 3vh;
+	background-color: white;
+}
+
+.gcse-search{
+	/*width: 2rem;
+	height: 2rem;*/
+}
+.buttons button
+{   width: 20vh;
+	height: 5vh;
+	background-color: white;
+	color: gray;
+	border: none;
+
+
+}
+.buttons{
+	float: left;
+	margin-left: 80vh;
+
+}
+.buttons button:hover
+{
+	color: grey;
+	box-shadow: .5px .5px .5px .5px gray;
+
+}
+.gs{
+	width: 80vh;
+	padding-left: 60vh;
+}
+.links t{
+	float: left;	
+
+}
+.links a{
+	color: gray;
+	text-decoration: none;
+}
+.i{
+	background-color: #DCDCDC	;
+	height: 5vh;
+	margin-top: 42vh;
+	background-color: 
+	color: gray;
+	text-decoration: none;
+	padding-left: 5vh;
+	padding-top: 2vh;
+}
+.links{
+	background-color:#D3D3D3;	;
+	height: 6vh;
+	padding-left: 21.5vh;
+
+
+}
+.links button{
+	border:none;
+	width: 25vh;
+	height: 5vh;
+	background-color: #D3D3D3;
+}
